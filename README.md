@@ -1,4 +1,4 @@
-# linked-eed
+#Standard Job Recommendation based on skills in LinkedIN and Indeed (DeserveIN)
 Aim is to come up with a job recommender system, which takes the skills from LinkedIn and jobs from Indeed and throws the best jobs available for you according to your skills.
 
 DataSet Used:
@@ -17,8 +17,8 @@ Step 2: Open linkedDeed/templates/index.html in the browser.
 Step 3: Fill up the form and submit.
 
 Future Work(If you are interested in extending this project then you could do the following):
- -- We are just considering the skillset which we get from LinkedIn. There are so many other sections on LinkedIn like Summary, Experience, Projects which could be mined to make better recommendations.
+ -- We are just considering the skillset which we get from LinkedIn. There are so many other sections on LinkedIn like Endorsment, Recommendations , Projects which could be mined to make better ratifications.
  
-Demo Link:
-    https://www.youtube.com/watch?v=WbtJNs3p6cA
+
+    
  
